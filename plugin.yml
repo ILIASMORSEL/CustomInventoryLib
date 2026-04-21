@@ -1,0 +1,6 @@
+name: CustomInventoryLib
+version: 1.0.0
+main: imorsel\custominv\CustomInventoryLib
+api: 5.0.0
+author: Ilias Morsel
+description: A cross-version compatible virtual inventory library for PocketMine-MP 5. Supports all Bedrock client versions including legacy 1.21.x clients.
