@@ -1,12 +1,12 @@
 # IM_CustomInventoryLib
 
 ```
- ██╗███╗   ███╗     ██████╗██╗   ██╗███████╗████████╗ ██████╗ ███╗   ███╗
- ██║████╗ ████║    ██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔═══██╗████╗ ████║
- ██║██╔████╔██║    ██║     ██║   ██║███████╗   ██║   ██║   ██║██╔████╔██║
- ██║██║╚██╔╝██║    ██║     ██║   ██║╚════██║   ██║   ██║   ██║██║╚██╔╝██║
- ██║██║ ╚═╝ ██║    ╚██████╗╚██████╔╝███████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
- ╚═╝╚═╝     ╚═╝     ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+ ██████╗██╗   ██╗███████╗████████╗ ██████╗ ███╗   ███╗
+██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔═══██╗████╗ ████║
+██║     ██║   ██║███████╗   ██║   ██║   ██║██╔████╔██║
+██║     ██║   ██║╚════██║   ██║   ██║   ██║██║╚██╔╝██║
+╚██████╗╚██████╔╝███████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
+╚═════╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
   ██╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗████████╗ ██████╗ ██████╗ ██╗   ██╗
   ██║████╗  ██║██║   ██║██╔════╝████╗  ██║╚══██╔══╝██╔═══██╗██╔══██╗╚██╗ ██╔╝
   ██║██╔██╗ ██║██║   ██║█████╗  ██╔██╗ ██║   ██║   ██║   ██║██████╔╝ ╚████╔╝
@@ -28,6 +28,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)
 ![Bedrock](https://img.shields.io/badge/Bedrock-1.21.x%20%2B%2026.x%2B-brightgreen?style=flat-square)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support%20me-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/iliasmorsel)
 
 **The only virtual inventory library for PocketMine-MP 5 that works correctly on ALL Bedrock client versions.**
 
@@ -212,6 +213,20 @@ $inv->onClose(function(Player $player, CustomInv $inv) : void {
 
 $inv->send($player);
 ```
+
+---
+
+## Support / Поддержать
+
+<div align="center">
+
+This library is free and open source. If it saved you time or solved a problem that no other library could fix, consider buying me a coffee.
+
+Библиотека бесплатная и открытая. Если она сэкономила тебе время или решила проблему которую не мог решить никто другой, можешь поддержать меня.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/iliasmorsel)
+
+</div>
 
 ---
 
